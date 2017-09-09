@@ -11,3 +11,6 @@ File | What's in it?
 --- | ---
 `ptb/` | PTB language model, see the [RNN Tutorial](http://tensorflow.org/tutorials/recurrent/)
 `translate/` | Translation model, see the [Sequence-to-Sequence Tutorial](http://tensorflow.org/tutorials/seq2seq/)
+
+
+jj
